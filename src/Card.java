@@ -19,6 +19,7 @@ public class Card {
 		INVALID (-1, '?');
 		public static final int NUM_VALUES = 13;
         
+		// Added a comment
 		private int rank_m;
 		private char label_m;
 		
